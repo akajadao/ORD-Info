@@ -1,7 +1,3 @@
-## Aluno: Jader Alves dos Santos
-## RA: 120286
-
-
 def main():
     nomeArq = input('Digite o nome do arquivo: ')
     try:
