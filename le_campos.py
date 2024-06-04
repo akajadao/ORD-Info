@@ -1,7 +1,3 @@
-## Aluno: Jader Alves dos Santos
-## RA: 120286
-
-#função usada para ler as informações do arquivo de texto
 def ler_campos(file):
     campo = ''
     f = file.read(1) ## lê a primeira informação para inicializar
