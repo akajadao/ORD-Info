@@ -1,6 +1,3 @@
-## Aluno: Jader Alves dos Santos
-## RA: 120286
-
 # a função le o arquivo em binário
 def leia_reg(file):
     tam_bytes = file.read(2)
